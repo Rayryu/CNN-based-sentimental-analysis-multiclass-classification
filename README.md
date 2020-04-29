@@ -11,5 +11,3 @@ The architecture is defined as following:
 The model is applied on a dataset containing +1500000 tweets classified as negative or positive and has achieved 86,28% accuracy on training data and 82,32% accuracy on validation data.
 
 Dataset used for the application: http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
-
-![https://imgur.com/a/uBB5Wg5](https://i.imgur.com/bJOcFZ5.png=20x20)
